@@ -5,7 +5,7 @@
 
     <application tools:ignore="AllowBackup">
         <activity
-            android:name=".IntroductionActivity"
+            android:name="com.rubengees.introduction.IntroductionActivity"
             android:theme="@style/IntroductionActivityStyle"/>
     </application>
 
